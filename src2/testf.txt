@@ -1,3 +1,5 @@
 This is for testing.
 Second change.
 Third change.
+Forth change.
+this line is removed now -- this is from vs code master branch
