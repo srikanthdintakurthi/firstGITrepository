@@ -2,4 +2,4 @@ c1
 c2- vscode
 c3-vs code for conflict
 c4 - browser
-c5-vs code for conflict.
+c5-browser for conflict.
