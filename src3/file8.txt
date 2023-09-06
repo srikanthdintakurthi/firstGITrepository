@@ -3,5 +3,7 @@ c2 from eclipse for conflict with c1 from browser.
 c3 from vs code.
 c4 from browser for conflict with vscode.
 c5 from browser.
+c6 from vs code.
 c7 from browser.
 c8 from browser.
+c9 from vscode.
